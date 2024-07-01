@@ -11,6 +11,9 @@ Size Sunacağım Bu MTA V14 Botu 60 Starda Paylaşacağım Herkese Hayırlı Gü
 
 Not: Bu Projede Bana Yardım Eden İş Ortağım "Shewn & Keysmola" Teşekkür Ederim.
 
+![Örnek Görsel](https://example.com/image.jpg)
+
+
 ```js
 "settings.json" Dosyasını doldurunuz
 
