@@ -16,7 +16,7 @@ Not: Bu Projede Bana Yardım Eden İş Ortağım "Shewn & Keysmola" Teşekkür E
 
 Terminalden "npm i" yazarak modülleri indiriniz
 
-"Start.bat" ı çalıştırınız ve  bu kadar Düşman Çatlatan Guardınız Hazır iyi günlerde kullanın :D
+"Start.bat" ı çalıştırınız ve Bu kadar
 ```
 
 **Bize ulaşabileceğiniz sosyal medya bilgilerimiz:**
